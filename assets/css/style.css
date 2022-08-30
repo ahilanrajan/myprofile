@@ -154,7 +154,8 @@ h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.9);
+  /* background: rgba(0, 0, 0, 0.9); */
+  background:rgba(3, 51, 103, 0.7);
 }
 
 #header.header-top .social-links,
